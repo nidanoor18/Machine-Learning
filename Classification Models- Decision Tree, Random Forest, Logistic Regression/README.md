@@ -60,9 +60,10 @@ The dataset contains medical records of patients with the following attributes:
 ├── Classification_Models.ipynb
 ├── diabetes.csv
 ├── README.md
-├── Report.pdf ```
+├── Report.pdf
+```
 
-
+---
 ## Results
 
 The models were trained and evaluated on the Diabetes dataset.
